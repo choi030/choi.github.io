@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb37c2fd.css",
+    "main.js": "/static/js/main.629b716f.js",
+    "static/media/CartoonMac.png": "/static/media/CartoonMac.9e4af4d4b1e789b01aad.png",
+    "static/media/SplashColor.png": "/static/media/SplashColor.4db4f66a550dc98db8a2.png",
+    "index.html": "/index.html",
+    "main.cb37c2fd.css.map": "/static/css/main.cb37c2fd.css.map",
+    "main.629b716f.js.map": "/static/js/main.629b716f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb37c2fd.css",
+    "static/js/main.629b716f.js"
+  ]
+}
